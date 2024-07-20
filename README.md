@@ -56,7 +56,7 @@ A simple blog website built using Node.js, Express, and MongoDB. This project al
 ### View Posts
 - Navigate to the `/posts` page to see all posts.
 - Click on a post title to view the post details.
-- 
+  
 ## Technologies
 
 - Node.js
